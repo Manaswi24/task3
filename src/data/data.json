@@ -1,0 +1,36 @@
+{
+    "profile":[   
+   {
+    "basics":{
+     "name":"Samsung",
+     "model":"Galaxy Note 10 Plus",
+     "phone":"9817214312",
+     "email":"haun@apssdc.in"
+    },
+    "career":"Samsung Galaxy Note 10 smartphone was launched on 7th August 2019.The phone comes with a 6.30-inch touchscreen display with a resolution of 1080x2280 pixels at a pixel density of 401 pixels per inch (ppi) and an aspect ratio of 19:9. Samsung Galaxy Note 10 is powered by a 1.9GHz octa-core Samsung Exynos 9825 processor that features 4 cores clocked at 1.9GHz, 2 cores clocked at 2.4GHz and 2 cores clocked at 2.7GHz. It comes with 8GB of RAM. The Samsung Galaxy Note 10 runs Android 9 Pie and is powered by a 3500mAh battery. The Samsung Galaxy Note 10 supports wireless charging."
+
+   },
+   {
+    "basics":{
+     "name":"Samsung",
+     "model":"a70",
+     "phone":"9817214312",
+     "email":"haun@apssdc.in"
+    },
+    "career":"The Samsung Galaxy A70 is being marketed as a multimedia powerhouse that can also deliver good photography results with its triple rear cameras and offer a smooth performance. The Samsung phone packs a beautiful 6.7-inch full-HD+ (1080x2400 pixels) Super AMOLED display which is vibrant, has good viewing angles and great sunlight legibility, making it a great choice for watching videos and playing games."
+   },
+
+
+   {
+    "basics":{
+     "name":"Realme",
+     "model":"X50 Pro 5G",
+     "phone":"8659354324",
+     "email":"swami@apssdc.in"
+    },
+    "career":"The Realme X50 Pro is 5G ready and features the top-end Qualcomm Snapdragon 865 processor. In terms of performance, this device is excellent for gaming as well as general productivity. Realme has also used high-speed RAM and storage, plus a 90Hz display, for a snappy overall experience. This is a mid-range flagship phone that truly can take on many of the much more expensive models in the market. "
+
+   }
+   ]
+}
+   
